@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 3000
 
 # Start the app (adjust the command as per your app)
-CMD ["npm", "start"]
+CMD ["node index.js"]
