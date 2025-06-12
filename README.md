@@ -1,87 +1,46 @@
-<h1 align="center">
-  𝗞ą𝗂𝗌𝖾𝗇-𝗠𝗗 🌟
-</h1>
-<p align="center">
-  A Royal Multi-Device WhatsApp Bot with Music, Auto Features, Powerful Control Panel, and Stylish UI 🌈
-</p>
+
+
+## Multi Device Whatsapp Bot.
+
+***
+
+### SETUP
+
+1. Fork The Repo
+    <br>
+<a href="https://github.com/sumon9836/KAISEN-MD/fork"><img title="KAISEN-MD" src="https://img.shields.io/badge/FORK KAISEN-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+
+2. pair kaisen
+    <br>
+<a href="https://kaisen-md-pair.onrender.com"><img title="PAIR CODE" src="https://img.shields.io/badge/GET SESSION-h?color=black&style=for-the-badge&logo=msi"></a>
+
+
+
+### KAISEN-MD Deploy Methods
+
+-------
+
+#### Deploy To Heroku 
+
+<a href="heroku.com"><img title="KAISEN-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+
 
 ---
+#### Deploy To Railway
 
-## 🌐 Pair Your WhatsApp Bot
+<a href="https://railway.com/new"><img title="KAISEN-MD Deploy Railway" src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
 
-<p align="center">
-  <a href="https://pair-kaisen.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/CLICK_TO_PAIR-𝗞ą𝗂𝗌𝖾𝗇𝗠𝗗%20🔗-0abf53?style=for-the-badge&logo=whatsapp" alt="Pair Now">
-  </a>
-</p>
 
 ---
+#### Deploy To Replit
 
-## 🚀 Deploy Now
-
-[![Deploy on Railway](https://railway.com)  
-
-[![Deploy to Heroku](https://www.herokucdn.com)
-
-[![Run on Replit](https://replit.com)  
+<a href="https://replit.com/github/sumon9836/KAISEN-MD"><img title="KAISEN-MD Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
 
 ---
+ 
+ ### Support
 
-## 🌐 Pairing Link
+SUPPORT GROUP
 
-📲 Connect your device here:  
-👉 **[Click to Pair](https://pair-kaisen.onrender.com)**
+<a href="https://chat.whatsapp.com/CQyxExEBMGvEnkA32zqbNY"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
 
----
-
-## ✨ Features
-
-- 🌐 WhatsApp Multi-Device Support
-- 🎶 YouTube Music/Video Downloader
-- 🎭 Sticker Maker, Photo Editor, Converter
-- 🔁 Auto Reaction, Auto Status View, Welcome/Goodbye
-- 🎧 Mention Song & Tag Features
-- 💬 Group Command System
-- 👑 Owner & Admin Special Controls
-- ⚙️ Custom Prefix / Profile Setup
-- 🧩 Full Custom Panel Access (Coming Soon)
-
----
-
-## 📲 Panel & Device Control
-
-> 🔗 Link Device Easily from Web  
-> ⚙️ Manage Commands from Panel  
-> 🔐 Secure Admin Dashboard  
-> 🧩 Add or Remove Section Access  
-> 📦 Logs, Info, Media Access & More  
-
-👉 **Panel Link:** Coming Soon  
-🔑 **Section Link API:** Already integrated  
-📟 **Pairing Status:** Real-Time Sync
-
----
-
-## 👑 Owner Information
-
-- Owner Name: 𝐒𝐔𝐌𝐎𝐍 .𝐗. 𝐒𝐀𝐌𝐈𝐍
-
--1 WhatsApp: [📞 Click Here](https://wa.me/917003816486)
-  
--2 WhatsApp: [📞 Click Here](https://wa.me/918348672970)
-
--1 GitHub: [𝐒𝐔𝐌𝐎𝐍9836](https://github.com/sumon9836)
-
--2 GitHub: [𝐒𝐀𝐌𝐈𝐍123123](https://github.com/Samin123123)
-
-- Main Bot Repo: [𝗞ą𝗂𝗌𝖾𝗇-𝗠𝗗](https://github.com/sumon9836/KAISEN-MD)
-
----
-
-## 🛠️ Installation (For Devs)
-
-```bash
-git clone https://github.com/sumon9836/KAISEN-MD
-cd KAISEN-MD
-npm install
-node index.js
